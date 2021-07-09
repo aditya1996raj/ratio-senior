@@ -503,9 +503,6 @@ h1, h2, h3, h4, h5, h6, p, ul{
     .banner-h1 br{
         display: none;
     }
-    /* .foot-menu{
-        padding: 0 30px;
-    } */
 }
 @media only screen and (max-width:755px) {
     .foot-menu{
@@ -604,6 +601,16 @@ h1, h2, h3, h4, h5, h6, p, ul{
     .apply2  a{
         padding: 8px 25px;
     }
+    .fix{
+        padding-top: 110px;
+    }
+    .row2{
+        margin-top: 30px;
+        margin-bottom: 25px;
+    }
+    .front-end{
+        padding-top: 370px;
+    }
 
 }
 @media only screen and (max-width:619px) {
@@ -665,11 +672,14 @@ h1, h2, h3, h4, h5, h6, p, ul{
         font-size: 14px;
     }
     .front-li {
-        font-size: 11px;
+        font-size: 13px;
         letter-spacing: 1px;
     }
     .apply-now-a{
         padding: 10px 15px;
+    }
+    .logo {
+        width: 100%;
     }
 }
 @media only screen and (max-width:451px){
@@ -705,14 +715,11 @@ h1, h2, h3, h4, h5, h6, p, ul{
     .open-a{
         padding: 5px;
     }
-    .menu-toggle {
-        position: absolute;
-        right: 30px;
-        top: 25px;
-        font-size: 20px;
+    .front-end {
+        padding-top: 355px;
     }
     .top-a{
-        font-size: 12px;
+        font-size: 16px;
     }
     .top-h3{
         font-size: 26px;
@@ -728,4 +735,20 @@ h1, h2, h3, h4, h5, h6, p, ul{
         padding: 10px;
         font-size: 12px;
     }
+}
+@media only screen and (max-width:361px) {
+    .fix{
+        padding-top: 98px;
+    }
+    .front-end {
+        padding-top: 310px;
+    }
+    .top-h3 {
+        font-size: 22px;
+        line-height: 20px;
+    }
+    .apply2{
+        margin-top: 20px;
+    }
+    
 }

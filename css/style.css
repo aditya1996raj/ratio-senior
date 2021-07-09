@@ -262,9 +262,9 @@ h1, h2, h3, h4, h5, h6, p, ul{
     display: flex;
     align-items: center;
 }
-.foot-logo{
+/* .foot-logo{
     margin-left: 18px;
-}
+} */
 .foot-menu{
     display: flex;
     margin-left: auto;

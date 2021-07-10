@@ -218,7 +218,7 @@ h1, h2, h3, h4, h5, h6, p, ul{
 
 }
 .front-ul{
-    padding-left: 18px;
+    padding-left: 14px;
     margin-top: 12px;
     margin-bottom: 28px;
     line-height: 30px;
@@ -534,7 +534,7 @@ h1, h2, h3, h4, h5, h6, p, ul{
     .top-nav{
         /* position: relative; */
         align-items: center;
-        padding: 20px;
+        padding: 20px 30px;
     }
     .toggle{
         display: block;
@@ -558,6 +558,9 @@ h1, h2, h3, h4, h5, h6, p, ul{
         right: 0px;
         display: block!important;
         z-index: 9999;
+    }
+    .menu-li {
+        margin-left: 30px;
     }
     .menu-ul{
         width: 100%;
@@ -743,6 +746,7 @@ h1, h2, h3, h4, h5, h6, p, ul{
     }
     .front-end {
         padding-top: 310px;
+        padding-bottom: 40px;
     }
     .top-h3 {
         font-size: 22px;
@@ -753,6 +757,15 @@ h1, h2, h3, h4, h5, h6, p, ul{
     }
     .foot {
         margin-left: 40px;
+    }
+    .foot-logo img{
+        margin-right: 55px;
+    }
+    .copy{
+        padding-left: 22px;
+    }
+    .foot-p{
+        text-align: start;
     }
     
 }

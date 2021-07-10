@@ -566,6 +566,7 @@ h1, h2, h3, h4, h5, h6, p, ul{
     }
     .menu-li {
         margin-left: 30px;
+        text-align: start;
     }
     .menu-ul{
         width: 100%;
@@ -627,7 +628,7 @@ h1, h2, h3, h4, h5, h6, p, ul{
         font-size: 22px;
     }
     .front-li{
-        font-size: 15px;
+        font-size: 16px;
     }
     .logo {
         width: 70%;
@@ -674,15 +675,16 @@ h1, h2, h3, h4, h5, h6, p, ul{
     }
     .front-h4{
         line-height: 25px;
-        font-size: 14px;
+        font-size: 16px;
     }
     .front-h3{
         line-height: 25px;
-        font-size: 14px;
+        font-size: 16px;
     }
     .front-li {
-        font-size: 13px;
+        font-size: 16px;
         letter-spacing: 1px;
+        margin-bottom: 15px;
     }
     .apply-now-a{
         padding: 10px 15px;

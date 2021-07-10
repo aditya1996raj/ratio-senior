@@ -504,18 +504,6 @@ h1, h2, h3, h4, h5, h6, p, ul{
         display: none;
     }
 }
-@media only screen and (max-width:755px) {
-    .foot-menu{
-        display: block;
-    }
-    .foot{
-        margin-bottom: 30px;
-    }
-    .foot:last-child{
-        margin-bottom: 0px;
-    }
-    
-}
 @media only screen and (max-width:783px) {
     .front-h2 {
         font-size: 28px;
@@ -527,6 +515,23 @@ h1, h2, h3, h4, h5, h6, p, ul{
         font-size: 16px;
     }
 }
+@media only screen and (max-width:755px) {
+    .foot-logo{
+        text-align: start;
+        margin-left: 30px;
+    }
+    .foot-menu{
+        display: block;
+    }
+    .foot{
+        margin-bottom: 30px;
+    }
+    .foot:last-child{
+        margin-bottom: 0px;
+    }
+    
+}
+
 @media only screen and (max-width:695px) {
     .logo {
         width: 35%;

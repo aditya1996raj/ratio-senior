@@ -122,13 +122,13 @@ h1, h2, h3, h4, h5, h6, p, ul{
     margin-top: 1px;
 }
 .row2{
-    margin-top: 48px;
+    margin-top: 43px;
     margin-bottom: 31px;
     display: flex;
     align-items: center;
 }
 .row3{
-    margin-bottom: 13px;
+    margin-bottom: 26px;
 }
 .top-h3{
     margin: 0px;
@@ -180,7 +180,7 @@ h1, h2, h3, h4, h5, h6, p, ul{
     line-height: 1.8em;
 }
 .front-end{
-    padding-top: 450px;
+    padding-top: 453px;
     margin: 0 auto;
     background-color: #fff;
     padding-bottom: 27px;

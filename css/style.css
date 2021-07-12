@@ -17,7 +17,7 @@ h1, h2, h3, h4, h5, h6, p, ul{
 }
 .top-nav{
     display: flex;
-    padding: 30px 0px;
+    padding: 15px 0px;
     z-index: 9999999;
     /* background: #fff; */
     width: 100%;
@@ -79,7 +79,7 @@ h1, h2, h3, h4, h5, h6, p, ul{
     background-image: url(../image/banner.png);
     padding: 30px 0px;
     position: fixed;
-    padding-top: 153px;
+    padding-top: 123px;
     width: 100%;
     max-width: 1920px;
     box-sizing: border-box;
@@ -180,7 +180,7 @@ h1, h2, h3, h4, h5, h6, p, ul{
     line-height: 1.8em;
 }
 .front-end{
-    padding-top: 453px;
+    padding-top: 427px;
     margin: 0 auto;
     background-color: #fff;
     padding-bottom: 27px;
@@ -202,7 +202,7 @@ h1, h2, h3, h4, h5, h6, p, ul{
     font-weight: 400;
 }
 .front-h3{
-    margin-top: 24px;
+    margin-top: 27px;
     font-size: 16px;
     letter-spacing: 0px;
     line-height: 23px;

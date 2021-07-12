@@ -3,7 +3,7 @@ body{
     margin: 0 auto;
     padding: 0%;
     /* overflow: hidden; */
-    font-family: Lato,sans-serif,"Helvetica Neue",Helvetica,Arial;
+    font-family: "Montserrat";
 }
 h1, h2, h3, h4, h5, h6, p, ul{
     margin: 0px;
@@ -278,8 +278,8 @@ h1, h2, h3, h4, h5, h6, p, ul{
     margin: 0px;
 }
 .foot{
-    margin-left: 40px;
-    padding: 0px 5px;
+    margin-left: 52px;
+    padding: 0px 3px;
     position: relative;
 }
 .foot-ul::before{

@@ -218,7 +218,7 @@ h1, h2, h3, h4, h5, h6, p, ul{
 
 }
 .front-ul{
-    padding-left: 14px;
+    padding-left: 16px;
     margin-top: 12px;
     margin-bottom: 28px;
     line-height: 30px;
@@ -529,11 +529,6 @@ h1, h2, h3, h4, h5, h6, p, ul{
     .foot:last-child{
         margin-bottom: 0px;
     }
-    .copy{
-        text-align: start;
-        padding-left: 30px;
-    }
-    
     
 }
 
@@ -626,6 +621,12 @@ h1, h2, h3, h4, h5, h6, p, ul{
     .front-end{
         padding-top: 370px;
     }
+    .copy{
+        padding-left: 30px;
+    }
+    .foot-p{
+        text-align: start;
+    }
 
 }
 @media only screen and (max-width:619px) {
@@ -637,6 +638,12 @@ h1, h2, h3, h4, h5, h6, p, ul{
     }
     .logo {
         width: 70%;
+    }
+    .copy{
+        padding-left: 30px;
+    }
+    .foot-p{
+        text-align: start;
     }
     
 }
@@ -673,6 +680,12 @@ h1, h2, h3, h4, h5, h6, p, ul{
         top: 25px;
         font-size: 30px;
     }
+    .copy{
+        padding-left: 30px;
+    }
+    .foot-p{
+        text-align: start;
+    }
 }
 @media only screen and (max-width:478px) {
     .front-h2{
@@ -696,6 +709,12 @@ h1, h2, h3, h4, h5, h6, p, ul{
     }
     .logo {
         width: 100%;
+    }
+    .copy{
+        padding-left: 30px;
+    }
+    .foot-p{
+        text-align: start;
     }
 }
 @media only screen and (max-width:451px){
@@ -751,13 +770,19 @@ h1, h2, h3, h4, h5, h6, p, ul{
         padding: 10px;
         font-size: 12px;
     }
+    .copy{
+        padding-left: 30px;
+    }
+    .foot-p{
+        text-align: start;
+    }
 }
 @media only screen and (max-width:361px) {
     .fix{
         padding-top: 98px;
     }
     .front-end {
-        padding-top: 310px;
+        padding-top: 325px;
         padding-bottom: 40px;
     }
     .top-h3 {

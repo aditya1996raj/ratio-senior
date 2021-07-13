@@ -529,6 +529,11 @@ h1, h2, h3, h4, h5, h6, p, ul{
     .foot:last-child{
         margin-bottom: 0px;
     }
+    .copy{
+        text-align: start;
+        padding-left: 30px;
+    }
+    
     
 }
 
@@ -769,7 +774,7 @@ h1, h2, h3, h4, h5, h6, p, ul{
         margin-right: 55px;
     }
     .copy{
-        padding-left: 22px;
+        padding-left: 30px;
     }
     .foot-p{
         text-align: start;

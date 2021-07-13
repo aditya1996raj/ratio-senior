@@ -635,6 +635,7 @@ h1, h2, h3, h4, h5, h6, p, ul{
     }
     .front-li{
         font-size: 16px;
+        letter-spacing: 2px;
     }
     .logo {
         width: 70%;
@@ -694,14 +695,16 @@ h1, h2, h3, h4, h5, h6, p, ul{
     .front-h4{
         line-height: 25px;
         font-size: 16px;
+        letter-spacing: 2px;
     }
     .front-h3{
         line-height: 25px;
         font-size: 16px;
+        letter-spacing: 2px;
     }
     .front-li {
         font-size: 16px;
-        letter-spacing: 1px;
+        letter-spacing: 2px;
         margin-bottom: 15px;
     }
     .apply-now-a{

@@ -756,6 +756,9 @@ h1, h2, h3, h4, h5, h6, p, ul{
     .front-end {
         padding-top: 380px;
     }
+    .front-h6{
+        font-size: 22px;
+    }
     .top-a{
         font-size: 16px;
     }

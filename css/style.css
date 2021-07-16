@@ -640,6 +640,10 @@ h1, h2, h3, h4, h5, h6, p, ul{
     .logo {
         width: 70%;
     }
+    .active{
+        top: 85px;
+    }
+
     .copy{
         padding-left: 30px;
     }

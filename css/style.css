@@ -786,6 +786,9 @@ h1, h2, h3, h4, h5, h6, p, ul{
     .foot-p{
         text-align: start;
     }
+    .active{
+        top: 80px;
+    }
 }
 @media only screen and (max-width:361px) {
     .fix{
